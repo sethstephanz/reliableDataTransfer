@@ -2,7 +2,7 @@
 Portfolio project from Intro to Networks
 
 The purpose of this project was to implement a method of transferring data reliably over an unreliable network.
-We were to use as our basis the Reliable Data Transfer 3.0, as described in Computer Networking: A Topdown Approach by James F. Kurose;
+We were to use as our basis the Reliable Data Transfer 3.0 model, as described in <i>Computer Networking: A Topdown Approach</i> by James F. Kurose;
 however, the specific implementation was left to us.
 
 The unreliable network that we had to get data across reliably has the following problems:
